@@ -1,0 +1,5 @@
+html, body { height: 100%; margin: 0; }
+body { display: grid; place-items: center; background: #fff; }
+canvas { background: #eee; }
+.hud { font-family: system-ui, sans-serif; margin-top: 8px; text-align: center; }
+.hud kbd { border: 1px solid #aaa; padding: 2px 4px; border-radius: 4px; }
