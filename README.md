@@ -1,6 +1,6 @@
 # Zukunftstag – Mini-Ping‑Pong (HTML/CSS/JS)
 
-Ein 5‑Stunden‑Workshop für ein Kind, um spielerisch in die Entwicklerarbeit reinzuschnuppern. Kein Build‑Tool nötig – nur eine `index.html` im Browser öffnen.
+Ein Workshop für ein Kind, um spielerisch in die Entwicklerarbeit reinzuschnuppern. Kein Build‑Tool nötig – nur eine `index.html` im Browser öffnen.
 
 ---
  
@@ -18,9 +18,6 @@ Ein 5‑Stunden‑Workshop für ein Kind, um spielerisch in die Entwicklerarbeit
 
 ## Ablauf (5 h)
 
-**0:00–0:15 – Warm‑up (Spiel/Rätsel)**\
-Emoji‑Pantomime, Bug‑Jagd, Mini‑Rätsel – Eis brechen.
-
 **0:45–4:45 – Projekt „Ping‑Pong Mini“**\
 Arbeitsphasen in Checkpoints:
 
@@ -30,15 +27,6 @@ Arbeitsphasen in Checkpoints:
 4. Kollisionen (Paddle/Wand)
 5. Punkte zählen
 6. Start/Pause/Reset
-
-**4:45–5:00 – Präsentation & Mini‑Retro**\
-1‑Min‑Demo, Sticker/Urkunde, kurze Reflexion.
-
----
-
-## Projektstruktur & Setup
-
-> Lege einen Ordner an und benutze **separate Dateien** für HTML, CSS und JS.
 
 **Dateistruktur**
 ```

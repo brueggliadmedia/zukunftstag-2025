@@ -1,5 +1,38 @@
-html, body { height: 100%; margin: 0; }
-body { display: grid; place-items: center; background: #fff; }
-canvas { background: #eee; }
-.hud { font-family: system-ui, sans-serif; margin-top: 8px; text-align: center; }
-.hud kbd { border: 1px solid #aaa; padding: 2px 4px; border-radius: 4px; }
+/* ============================================
+   PING-PONG SPIEL - CSS CODE
+   ============================================
+   CSS macht unsere Seite schön!
+   Es sagt dem Browser: "Wie soll alles aussehen?"
+   ============================================ */
+
+/* HTML und Body sollen die ganze Höhe einnehmen */
+html, body { 
+  height: 100%;  /* 100% der Bildschirmhöhe */
+  margin: 0;     /* Keine Abstände am Rand */
+}
+
+/* Body: Alles in der Mitte zentrieren */
+body { 
+  display: grid;           /* Grid-Layout verwenden */
+  place-items: center;     /* Alles in die Mitte */
+  background: #fff;        /* Hintergrund: weiß */
+}
+
+/* Canvas: Grauer Hintergrund */
+canvas { 
+  background: #eee;  /* Hintergrund: hellgrau */
+}
+
+/* Spiel-Info (HUD) Styling */
+.hud { 
+  font-family: system-ui, sans-serif;  /* Schriftart */
+  margin-top: 8px;                     /* Abstand nach oben */
+  text-align: center;                  /* Text zentrieren */
+}
+
+/* Tasten-Symbole (kbd) schön machen */
+.hud kbd { 
+  border: 1px solid #aaa;    /* Rahmen */
+  padding: 2px 4px;          /* Innenabstand */
+  border-radius: 4px;        /* Abgerundete Ecken */
+}

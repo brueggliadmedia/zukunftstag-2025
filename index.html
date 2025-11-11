@@ -1,19 +1,50 @@
 <!doctype html>
+<!-- ============================================
+     PING-PONG SPIEL - HTML CODE
+     ============================================
+     HTML ist wie das Gerüst eines Hauses.
+     Es sagt dem Browser: "Was soll auf der Seite sein?"
+     ============================================ -->
+
 <html lang="de">
 <head>
-  <meta charset="utf-8" />
-  <title>Ping-Pong Mini</title>
+  <!-- Meta-Informationen für den Browser -->
+  <meta charset="utf-8" />  <!-- Zeichensatz: damit Umlaute (ä, ö, ü) funktionieren -->
+  <title>Ping-Pong Mini</title>  <!-- Titel, der im Browser-Tab angezeigt wird -->
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  
+  <!-- CSS-Datei einbinden - das macht unsere Seite schön! -->
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
+  <!-- Der Hauptinhalt unserer Seite -->
   <main>
+    <!-- ============================================
+         DAS SPIELBRETT (CANVAS)
+         ============================================
+         Canvas ist wie ein Zeichenbrett.
+         Hier wird unser Spiel gezeichnet!
+         width und height = Breite und Höhe in Pixeln
+         ============================================ -->
     <canvas id="game" width="640" height="400"></canvas>
+    
+    <!-- ============================================
+         SPIEL-INFO (HUD = Heads-Up Display)
+         ============================================
+         Hier zeigen wir die Punktzahl und Steuerung
+         ============================================ -->
     <div class="hud">
       <strong>Treffer:</strong> <span id="scoreL">0</span><br>
       <small>Steuerung: <kbd>W</kbd>/<kbd>S</kbd> (Paddle bewegen), <kbd>Leertaste</kbd> Start/Pause, <kbd>R</kbd> Reset</small>
     </div>
   </main>
+  
+  <!-- ============================================
+       JAVASCRIPT CODE EINBINDEN
+       ============================================
+       defer bedeutet: "Warte, bis die HTML-Seite fertig geladen ist,
+       dann führe den JavaScript-Code aus"
+       ============================================ -->
   <script src="game.js" defer></script>
 </body>
 </html>
