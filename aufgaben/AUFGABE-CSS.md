@@ -205,7 +205,9 @@ Füge in deiner `style.css` Datei Abstände und Rahmen hinzu:
 
 ---
 
-## 📋 Nächste Aufgaben
+## 📋 Weitere CSS-Aufgaben
 
-- **Aufgabe 4:** Kommt bald... 😊
+- **[Flexbox lernen mit Flexbox Froggy](AUFGABE-CSS-FLEXBOX.md)** - Lerne Flexbox mit einem interaktiven Spiel! 🐸
+
+---
 
