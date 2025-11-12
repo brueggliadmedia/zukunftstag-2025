@@ -8,6 +8,10 @@ Hier findest du Schritt-für-Schritt Aufgaben, um dein Ping-Pong Spiel zu versch
 
 **Ziel:** Lerne, wie du Farben und Hintergründe mit CSS ändern kannst!
 
+> **🔗 Nützliche Ressource:**  
+> [W3Schools CSS Tutorial](https://www.w3schools.com/css/default.asp) – Eine interaktive Einführung in CSS mit vielen Beispielen und Übungen!
+
+
 ### Was du machen sollst:
 
 Ändere in deiner `style.css` Datei die folgenden Eigenschaften:

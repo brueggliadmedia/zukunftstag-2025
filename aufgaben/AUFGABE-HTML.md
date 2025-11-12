@@ -8,6 +8,10 @@ Hier findest du Schritt-für-Schritt Aufgaben, um dein Ping-Pong Spiel zu verbes
 
 **Ziel:** Lerne die Grundstruktur einer HTML-Seite kennen!
 
+> **🔗 Nützliche Ressource:**  
+> [W3Schools HTML Tutorial](https://www.w3schools.com/html/default.asp) – Eine interaktive Einführung in HTML mit vielen Beispielen und Übungen!
+
+
 ### Was du machen sollst:
 
 Füge in deiner `index.html` Datei die folgenden HTML-Elemente hinzu:

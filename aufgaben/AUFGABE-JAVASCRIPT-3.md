@@ -8,6 +8,9 @@ Hier findest du Schritt-für-Schritt Aufgaben, um dein Ping-Pong Spiel zu erweit
 
 **Ziel:** Lerne, wie du `if`, `else if` und `else` verwendest, um verschiedene Farben basierend auf der Trefferanzahl anzuzeigen!
 
+> **🔗 Nützliche Ressource:**  
+> [W3Schools JavaScript Tutorial](https://www.w3schools.com/js/default.asp) – Eine interaktive Einführung in JavaScript mit vielen Beispielen und Übungen!
+
 ### Was du machen sollst:
 
 Verwende `if/else` Statements, um die Ball-Farbe basierend auf der Anzahl der Treffer zu ändern:

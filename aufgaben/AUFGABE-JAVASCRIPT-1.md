@@ -8,6 +8,9 @@ Hier findest du Schritt-für-Schritt Aufgaben, um dein Ping-Pong Spiel zu erweit
 
 **Ziel:** Lerne, wie du die Farben von Ball und Schläger im JavaScript-Code ändern kannst!
 
+> **🔗 Nützliche Ressource:**  
+> [W3Schools JavaScript Tutorial](https://www.w3schools.com/js/default.asp) – Eine interaktive Einführung in JavaScript mit vielen Beispielen und Übungen!
+
 ### Was du machen sollst:
 
 Ändere in deiner `game.js` Datei die Farben, mit denen Ball und Schläger gezeichnet werden:

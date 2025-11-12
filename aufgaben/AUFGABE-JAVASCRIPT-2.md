@@ -8,6 +8,9 @@ Hier findest du Schritt-für-Schritt Aufgaben, um dein Ping-Pong Spiel zu erweit
 
 **Ziel:** Lerne, wie du `console.log()` verwendest, um Werte im Browser anzuzeigen und deinen Code zu verstehen!
 
+> **🔗 Nützliche Ressource:**  
+> [W3Schools JavaScript Tutorial](https://www.w3schools.com/js/default.asp) – Eine interaktive Einführung in JavaScript mit vielen Beispielen und Übungen!
+
 ### Was du machen sollst:
 
 Füge `console.log()` Statements in deine `game.js` Datei ein, um verschiedene Werte während des Spiels anzuzeigen:
