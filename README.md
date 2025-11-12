@@ -6,8 +6,7 @@ Ein Workshop für ein Kind, um spielerisch in die Entwicklerarbeit reinzuschnupp
  
 ## Ziele
 
-- Ein lauffähiges Mini‑Ping‑Pong im Browser bauen
-- Grundprinzipien verstehen: **Canvas**, **Game‑Loop**, **Input**, **Kollision**, **Score**
+- Ein lauffähiges Mini‑Ping‑Pong im Browser erweitern
 - Teamarbeit, kurze Code‑Reviews und Spaß an Code erleben
 
 ## Voraussetzungen
