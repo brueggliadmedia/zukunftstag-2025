@@ -1,6 +1,6 @@
 # 🎨 Aufgaben für den Workshop
 
-Hier findest du Schritt-für-Schritt Aufgaben, um dein Ping-Pong Spiel zu verschönern und mehr über CSS zu lernen!
+Hier findest du Schritt-für-Schritt Aufgaben, um dein Pong Spiel zu verschönern und mehr über CSS zu lernen!
 
 ---
 
@@ -16,7 +16,7 @@ Hier findest du Schritt-für-Schritt Aufgaben, um dein Ping-Pong Spiel zu versch
 
 Ändere in deiner `style.css` Datei die folgenden Eigenschaften:
 
-1. **Hintergrundfarbe des `body`** - Ändere die weiße Hintergrundfarbe zu einer anderen Farbe
+1. **Hintergrundfarbe des `body`** - Ändere die weisse Hintergrundfarbe zu einer anderen Farbe
 2. **Hintergrundfarbe des `canvas`** - Ändere die graue Hintergrundfarbe zu einer anderen Farbe
 3. **Textfarbe** - Ändere die Farbe des Textes im `.hud` Bereich
 
@@ -83,7 +83,7 @@ Hier findest du Schritt-für-Schritt Aufgaben, um dein Ping-Pong Spiel zu versch
 Ändere in deiner `style.css` Datei die Schriftart und Text-Eigenschaften:
 
 1. **Schriftart ändern** - Wähle eine andere Schriftart für den `.hud` Bereich
-2. **Schriftgröße ändern** - Mache den Text größer oder kleiner
+2. **Schriftgrösse ändern** - Mache den Text grösser oder kleiner
 3. **Text fett machen** - Mache bestimmte Texte fett
 
 ### 📝 Schritt-für-Schritt Anleitung:
@@ -100,7 +100,7 @@ Hier findest du Schritt-für-Schritt Aufgaben, um dein Ping-Pong Spiel zu versch
    }
    ```
 
-3. Füge eine Schriftgröße hinzu:
+3. Füge eine Schriftgrösse hinzu:
    ```css
    .hud { 
      font-family: 'Arial', sans-serif;
@@ -111,7 +111,7 @@ Hier findest du Schritt-für-Schritt Aufgaben, um dein Ping-Pong Spiel zu versch
    }
    ```
 
-4. Ändere die Schriftgröße des `<small>` Elements:
+4. Ändere die Schriftgrösse des `<small>` Elements:
    ```css
    .hud small {
      font-size: 12px;  /* Füge diese neue Regel hinzu */
@@ -121,17 +121,17 @@ Hier findest du Schritt-für-Schritt Aufgaben, um dein Ping-Pong Spiel zu versch
 ### 💡 Tipps:
 
 - **Schriftarten:** `Arial`, `Helvetica`, `Times New Roman`, `Courier New`, `Georgia`
-- **Schriftgrößen:** `12px`, `14px`, `16px`, `18px`, `20px`, `24px`
+- **Schriftgrössen:** `12px`, `14px`, `16px`, `18px`, `20px`, `24px`
 - **`font-family`** = Welche Schriftart verwendet werden soll
-- **`font-size`** = Wie groß der Text sein soll
+- **`font-size`** = Wie gross der Text sein soll
 - **`font-weight`** = Wie dick der Text ist (`normal`, `bold`, `600`, `700`)
 - Wenn eine Schriftart nicht verfügbar ist, wird die nächste in der Liste verwendet
 
 ### ✨ Bonus-Aufgabe:
 
 - Probiere verschiedene Schriftarten aus!
-- Ändere die Schriftgröße der Punktzahl (`#scoreL`)
-- Mache die Tasten-Symbole (`<kbd>`) größer
+- Ändere die Schriftgrösse der Punktzahl (`#scoreL`)
+- Mache die Tasten-Symbole (`<kbd>`) grösser
 
 ### 🎓 Was lernst du dabei?
 
@@ -192,7 +192,7 @@ Füge in deiner `style.css` Datei Abstände und Rahmen hinzu:
   - Format: `border: [Dicke] [Stil] [Farbe]`
   - Stile: `solid` (durchgezogen), `dashed` (gestrichelt), `dotted` (gepunktet)
 - **`padding`** = Innenabstand (Abstand zwischen Inhalt und Rahmen)
-- **`margin`** = Außenabstand (Abstand zwischen Elementen)
+- **`margin`** = Aussenabstand (Abstand zwischen Elementen)
 - Du kannst auch einzelne Seiten ansprechen: `margin-top`, `margin-bottom`, `padding-left`, etc.
 
 ### ✨ Bonus-Aufgabe:

@@ -1,6 +1,6 @@
 # 🎮 Aufgaben für den Workshop
 
-Hier findest du Schritt-für-Schritt Aufgaben, um dein Ping-Pong Spiel zu erweitern und mehr über JavaScript zu lernen!
+Hier findest du Schritt-für-Schritt Aufgaben, um dein Pong Spiel zu erweitern und mehr über JavaScript zu lernen!
 
 ---
 
@@ -55,9 +55,9 @@ Verwende `if/else` Statements, um die Ball-Farbe basierend auf der Anzahl der Tr
 - **`else`** = "Wenn keine der Bedingungen wahr ist, dann..."
 - **Vergleichsoperatoren:**
   - `<` = kleiner als
-  - `>` = größer als
+  - `>` = grösser als
   - `<=` = kleiner oder gleich
-  - `>=` = größer oder gleich
+  - `>=` = grösser oder gleich
   - `===` = genau gleich
 - Die Bedingungen werden von oben nach unten geprüft - sobald eine Bedingung wahr ist, wird der Code ausgeführt und der Rest wird übersprungen
 

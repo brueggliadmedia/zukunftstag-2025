@@ -1,6 +1,6 @@
 # 🎯 Aufgaben für den Workshop
 
-Hier findest du Schritt-für-Schritt Aufgaben, um dein Ping-Pong Spiel zu verbessern und mehr über HTML, CSS und JavaScript zu lernen!
+Hier findest du Schritt-für-Schritt Aufgaben, um dein Pong Spiel zu verbessern und mehr über HTML, CSS und JavaScript zu lernen!
 
 ---
 
@@ -17,9 +17,9 @@ Hier findest du Schritt-für-Schritt Aufgaben, um dein Ping-Pong Spiel zu verbes
 Füge in deiner `index.html` Datei die folgenden HTML-Elemente hinzu:
 
 1. **`<header>`** - Ein Kopfbereich für deine Seite
-2. **`<h1>`** - Eine große Überschrift (z.B. "Mein Ping-Pong Spiel")
+2. **`<h1>`** - Eine grosse Überschrift (z.B. "Mein Pong Spiel")
 3. **`<p>`** - Ein Absatz mit Text (z.B. eine kurze Beschreibung)
-4. **`<footer>`** - Ein Fußbereich für deine Seite
+4. **`<footer>`** - Ein Fussbereich für deine Seite
 
 ### 📝 Schritt-für-Schritt Anleitung:
 
@@ -35,14 +35,14 @@ Füge in deiner `index.html` Datei die folgenden HTML-Elemente hinzu:
 3. Füge in den `<header>` eine Überschrift (`<h1>`) ein:
    ```html
    <header>
-     <h1>Mein Ping-Pong Spiel</h1>
+     <h1>Mein Pong Spiel</h1>
    </header>
    ```
 
 4. Füge unter der Überschrift einen Absatz (`<p>`) ein:
    ```html
    <header>
-     <h1>Mein Ping-Pong Spiel</h1>
+     <h1>Mein Pong Spiel</h1>
      <p>Ein cooles Spiel, das ich selbst programmiert habe!</p>
    </header>
    ```
@@ -52,7 +52,7 @@ Füge in deiner `index.html` Datei die folgenden HTML-Elemente hinzu:
   </main>
   
   <footer>
-    <p>Viel Spaß beim Spielen! 🎮</p>
+    <p>Viel Spass beim Spielen! 🎮</p>
   </footer>
   ```
 
@@ -61,7 +61,7 @@ Füge in deiner `index.html` Datei die folgenden HTML-Elemente hinzu:
 - **`<header>`** = Der Kopfbereich einer Seite (oft mit Logo, Navigation, Titel)
 - **`<h1>`** = Die wichtigste Überschrift auf der Seite (es gibt auch h2, h3, h4, h5, h6)
 - **`<p>`** = Ein Absatz mit Text
-- **`<footer>`** = Der Fußbereich einer Seite (oft mit Copyright, Links, etc.)
+- **`<footer>`** = Der Fussbereich einer Seite (oft mit Copyright, Links, etc.)
 
 ### ✨ Bonus-Aufgabe:
 

@@ -1,4 +1,4 @@
-# Zukunftstag – Mini-Ping‑Pong (HTML/CSS/JS)
+# Zukunftstag – Mini‑Pong-Game (HTML/CSS/JS)
 
 Ein Workshop für ein Kind, um spielerisch in die Entwicklerarbeit reinzuschnuppern. Kein Build‑Tool nötig – nur eine `index.html` im Browser öffnen.
 
@@ -6,8 +6,8 @@ Ein Workshop für ein Kind, um spielerisch in die Entwicklerarbeit reinzuschnupp
  
 ## Ziele
 
-- Ein lauffähiges Mini‑Ping‑Pong im Browser erweitern
-- Teamarbeit, kurze Code‑Reviews und Spaß an Code erleben
+- Ein lauffähiges Pong-Game im Browser erweitern
+- Teamarbeit, kurze Code‑Reviews und Spass an Code erleben
 
 ## Voraussetzungen
 

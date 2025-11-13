@@ -1,6 +1,6 @@
 # 🎮 Aufgaben für den Workshop
 
-Hier findest du Schritt-für-Schritt Aufgaben, um dein Ping-Pong Spiel zu erweitern und mehr über JavaScript zu lernen!
+Hier findest du Schritt-für-Schritt Aufgaben, um dein Pong Spiel zu erweitern und mehr über JavaScript zu lernen!
 
 ---
 
@@ -35,7 +35,7 @@ Hier findest du Schritt-für-Schritt Aufgaben, um dein Ping-Pong Spiel zu erweit
   })
   ```
 - Arbeite am besten mit `async` und `await`, damit dein Code einfacher zu lesen ist.
-- Wenn du noch nicht weißt, wie du das Ergebnis benutzt: Nutze `console.log(...)`, um dir die Antwort anzuschauen.
+- Wenn du noch nicht weisst, wie du das Ergebnis benutzt: Nutze `console.log(...)`, um dir die Antwort anzuschauen.
 - Baue eine kleine `loadDadJoke`-Funktion, die du sowohl beim Seitenstart als auch beim Button-Klick aufrufst.
 - Überlege, wie du Fehler behandelst (z.B. Anzeige eines kurzen Textes, wenn die API nicht antwortet).
 

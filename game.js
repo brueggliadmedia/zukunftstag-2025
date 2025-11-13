@@ -1,8 +1,8 @@
 // ============================================
-// PING-PONG SPIEL - JAVASCRIPT CODE
+// PONG SPIEL - JAVASCRIPT CODE
 // ============================================
 // 
-// In diesem Code steuern wir unser Ping-Pong Spiel!
+// In diesem Code steuern wir unser Pong Spiel!
 // Wir brauchen:
 // 1. Ein Zeichenbrett (Canvas) - das ist wie ein Blatt Papier zum Malen
 // 2. Einen Schläger (Paddle) - den können wir mit W und S bewegen
@@ -22,13 +22,13 @@ const ctx = canvas.getContext('2d');
 // ============================================
 // SCHRITT 2: Spiel-Einstellungen festlegen
 // ============================================
-// Hier definieren wir, wie groß und schnell alles sein soll
+// Hier definieren wir, wie gross und schnell alles sein soll
 // Das sind "Konstanten" - Werte, die sich während des Spiels nicht ändern
 
 const PADDLE_WIDTH = 10;      // Breite des Schlägers (in Pixeln)
 const PADDLE_HEIGHT = 80;     // Höhe des Schlägers (in Pixeln)
 const PADDLE_SPEED = 5;       // Wie schnell sich der Schläger bewegt
-const BALL_SIZE = 10;         // Größe des Balls (ein Quadrat mit 10x10 Pixeln)
+const BALL_SIZE = 10;         // Grösse des Balls (ein Quadrat mit 10x10 Pixeln)
 const BALL_SPEED = 4;         // Wie schnell sich der Ball bewegt
 
 // ============================================
@@ -107,7 +107,7 @@ function updatePaddle() {
   // S-Taste = nach unten bewegen
   // Prüfen: Ist 's' gedrückt UND ist der Schläger nicht schon ganz unten?
   if (keys['s'] && gameState.paddle.y < canvas.height - PADDLE_HEIGHT) {
-    gameState.paddle.y += PADDLE_SPEED;  // Nach unten = y wird größer
+    gameState.paddle.y += PADDLE_SPEED;  // Nach unten = y wird grösser
   }
 }
 
@@ -207,7 +207,7 @@ function draw() {
   // ============================================
   // HINTERGRUND LÖSCHEN
   // ============================================
-  // Wir malen ein großes graues Rechteck über alles
+  // Wir malen ein grosses graues Rechteck über alles
   // Das löscht den alten Frame, damit wir neu zeichnen können
   ctx.fillStyle = '#eee';  // Farbe: hellgrau
   ctx.fillRect(0, 0, canvas.width, canvas.height);  // Rechteck von (0,0) bis (width,height)
@@ -240,7 +240,7 @@ function draw() {
   // Wenn das Spiel pausiert ist, zeigen wir "PAUSE"
   if (gameState.paused) {
     ctx.fillStyle = 'rgba(0, 0, 0, 0.7)';  // Farbe: schwarz, aber halb durchsichtig
-    ctx.font = '24px system-ui';           // Schriftart und Größe
+    ctx.font = '24px system-ui';           // Schriftart und Grösse
     ctx.textAlign = 'center';              // Text zentrieren
     ctx.fillText('PAUSE', canvas.width / 2, canvas.height / 2);  // Text in der Mitte zeichnen
   }

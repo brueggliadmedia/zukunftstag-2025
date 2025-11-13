@@ -1,6 +1,6 @@
 # 🎮 Aufgaben für den Workshop
 
-Hier findest du Schritt-für-Schritt Aufgaben, um dein Ping-Pong Spiel zu erweitern und mehr über JavaScript zu lernen!
+Hier findest du Schritt-für-Schritt Aufgaben, um dein Pong Spiel zu erweitern und mehr über JavaScript zu lernen!
 
 ---
 
@@ -109,7 +109,7 @@ Erstelle eine neue HTML-Seite, die beim Laden ein zufälliges Pokemon von der Po
         container.innerHTML = `
           <h2>${pokemonName.charAt(0).toUpperCase() + pokemonName.slice(1)}</h2>
           <img id="pokemon-image" src="${pokemonImage}" alt="${pokemonName}">
-          <p><strong>Größe:</strong> ${pokemonHeight / 10} m</p>
+          <p><strong>Grösse:</strong> ${pokemonHeight / 10} m</p>
           <p><strong>Gewicht:</strong> ${pokemonWeight / 10} kg</p>
         `;
       } catch (error) {

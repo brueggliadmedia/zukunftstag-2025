@@ -1,5 +1,5 @@
 /* ============================================
-   PING-PONG SPIEL - CSS CODE
+   PONG SPIEL - CSS CODE
    ============================================
    CSS macht unsere Seite schön!
    Es sagt dem Browser: "Wie soll alles aussehen?"
@@ -15,7 +15,7 @@ html, body {
 body { 
   display: grid;           /* Grid-Layout verwenden */
   place-items: center;     /* Alles in die Mitte */
-  background: #fff;        /* Hintergrund: weiß */
+  background: #fff;        /* Hintergrund: weiss */
 }
 
 /* Canvas: Grauer Hintergrund */
